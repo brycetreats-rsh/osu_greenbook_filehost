@@ -6,6 +6,12 @@
           "yearninteenthirtyeight": 0
         },
         {
+          "county": "Windham County",
+          "state": "Connecticut",
+          "fips": 9015,
+          "yearninteenthirtyeight": 0
+        },
+        {
           "county": "Cook County",
           "state": "Illinois",
           "fips": 17031,
