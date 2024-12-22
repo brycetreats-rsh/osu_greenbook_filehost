@@ -760,6 +760,16 @@
     "Y1938": 0
   },
   {
+    "fips": 2105,
+    "state": "AK",
+    "area_name": "Hoonah-Angoon Census Area",
+    "yearninteenthirtyeight": 29.3,
+    "state_name": "NA",
+    "county": "NA",
+    "statecounty": "NA",
+    "Y1938": "NA"
+  },
+  {
     "fips": 2110,
     "state": "AK",
     "area_name": "Juneau City and Borough",
@@ -798,6 +808,16 @@
     "county": "Kodiak Island Borough",
     "statecounty": "Kodiak Island Borough, Alaska",
     "Y1938": 0
+  },
+  {
+    "fips": 2158,
+    "state": "AK",
+    "area_name": "Kusilvak Census Area",
+    "yearninteenthirtyeight": 4.5,
+    "state_name": "NA",
+    "county": "NA",
+    "statecounty": "NA",
+    "Y1938": "NA"
   },
   {
     "fips": 2164,
@@ -850,6 +870,26 @@
     "Y1938": 0
   },
   {
+    "fips": 2195,
+    "state": "AK",
+    "area_name": "Petersburg Census Area",
+    "yearninteenthirtyeight": 25.2,
+    "state_name": "NA",
+    "county": "NA",
+    "statecounty": "NA",
+    "Y1938": "NA"
+  },
+  {
+    "fips": 2198,
+    "state": "AK",
+    "area_name": "Prince of Wales-Hyder Census Area",
+    "yearninteenthirtyeight": 16.3,
+    "state_name": "NA",
+    "county": "NA",
+    "statecounty": "NA",
+    "Y1938": "NA"
+  },
+  {
     "fips": 2220,
     "state": "AK",
     "area_name": "Sitka City and Borough",
@@ -858,6 +898,16 @@
     "county": "Sitka City and Borough",
     "statecounty": "Sitka City and Borough, Alaska",
     "Y1938": 0
+  },
+  {
+    "fips": 2230,
+    "state": "AK",
+    "area_name": "Skagway Municipality",
+    "yearninteenthirtyeight": 34.6,
+    "state_name": "NA",
+    "county": "NA",
+    "statecounty": "NA",
+    "Y1938": "NA"
   },
   {
     "fips": 2240,
@@ -878,6 +928,16 @@
     "county": "Valdez-Cordova Census Area",
     "statecounty": "Valdez-Cordova Census Area, Alaska",
     "Y1938": 0
+  },
+  {
+    "fips": 2275,
+    "state": "AK",
+    "area_name": "Wrangell City and Borough",
+    "yearninteenthirtyeight": 18.7,
+    "state_name": "NA",
+    "county": "NA",
+    "statecounty": "NA",
+    "Y1938": "NA"
   },
   {
     "fips": 2282,
@@ -2450,6 +2510,16 @@
     "Y1938": 0
   },
   {
+    "fips": 8014,
+    "state": "CO",
+    "area_name": "Broomfield County",
+    "yearninteenthirtyeight": 49.5,
+    "state_name": "NA",
+    "county": "NA",
+    "statecounty": "NA",
+    "Y1938": "NA"
+  },
+  {
     "fips": 8015,
     "state": "CO",
     "area_name": "Chaffee County",
@@ -3548,6 +3618,16 @@
     "county": "Martin County",
     "statecounty": "Martin County, Florida",
     "Y1938": 0
+  },
+  {
+    "fips": 12086,
+    "state": "FL",
+    "area_name": "Miami-Dade County",
+    "yearninteenthirtyeight": 26.4,
+    "state_name": "NA",
+    "county": "NA",
+    "statecounty": "NA",
+    "Y1938": "NA"
   },
   {
     "fips": 12087,
@@ -24038,6 +24118,16 @@
     "county": "Moody County",
     "statecounty": "Moody County, South Dakota",
     "Y1938": 0
+  },
+  {
+    "fips": 46102,
+    "state": "SD",
+    "area_name": "Oglala Lakota County",
+    "yearninteenthirtyeight": 12.5,
+    "state_name": "NA",
+    "county": "NA",
+    "statecounty": "NA",
+    "Y1938": "NA"
   },
   {
     "fips": 46103,
